@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Maxim</h1>
+<h1 align="center">Hey Ho! 👋, I'm Maxim <b>G</b></h1>
 <h3 align="center">Developer from Germany</h3>
+<p align="center">
+  <img width="460" height="300" src="https://media.tenor.com/C-qhIiM38ooAAAAC/simpsons-homer.gif">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maximgofman&label=Profile%20views&color=0e75b6&style=flat" alt="maximgofman" /> </p>
 
@@ -11,7 +14,8 @@
 
 - 📫 How to reach me **maxim.gofman@wambo-agency.com**
 
-- ⚡ Fun fact **true + false = 1**
+- ⚡ CSS ...
+<img src='https://media1.giphy.com/media/YFkpsHWCsNUUo/200w.gif?cid=6c09b952pvi4jnfueg58pftac55tujhxehh0jb60vy04z06v&rid=200w.gif&ct=g'>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

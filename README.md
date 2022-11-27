@@ -1,12 +1,13 @@
 <h1 align="center">Hey Ho! 👋, I'm Maxim <b>G</b></h1>
 <h3 align="center">Developer from Germany</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maximgofman&label=Profile%20views&color=0e75b6&style=flat" alt="maximgofman" /> </p>
+
 <p align="center">
   <img width="460" height="300" src="https://media.tenor.com/C-qhIiM38ooAAAAC/simpsons-homer.gif">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maximgofman&label=Profile%20views&color=0e75b6&style=flat" alt="maximgofman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maximgofman" alt="maximgofman" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maximgofman" alt="maximgofman" /></a> </p>
 
 - 🌱 I’m currently learning **Vue, Laravel**
 

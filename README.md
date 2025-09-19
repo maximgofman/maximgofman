@@ -4,11 +4,7 @@
 <p align="center"> <img src="https://j.gifs.com/8qyzr5@large.gif?download=true" height="400em"></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maximgofman" alt="maximgofman" /></a> </p>
 
-- 🌱 I’m currently learning **Vue, Laravel**
-
-- 💬 Ask me about **PHP, Javascript, CSS, HTML**
-
-- 📫 How to reach me **maxim.gofman@wambo-agency.com**
+- 📫 How to reach me **maximgg1996@gmail.com**
 
 - ⚡ CSS ...
 <img src='https://media1.giphy.com/media/YFkpsHWCsNUUo/200w.gif?cid=6c09b952pvi4jnfueg58pftac55tujhxehh0jb60vy04z06v&rid=200w.gif&ct=g'>
@@ -25,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maximgofman&show_icons=true&locale=en" alt="maximgofman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximgofman&" alt="maximgofman" /></p>
+

@@ -6,9 +6,6 @@
 
 - 📫 How to reach me **maximgg1996@gmail.com**
 
-- ⚡ CSS ...
-<img src='https://media1.giphy.com/media/YFkpsHWCsNUUo/200w.gif?cid=6c09b952pvi4jnfueg58pftac55tujhxehh0jb60vy04z06v&rid=200w.gif&ct=g'>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -21,4 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maximgofman&show_icons=true&locale=en" alt="maximgofman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximgofman&" alt="maximgofman" /></p>
+
 
